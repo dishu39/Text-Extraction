@@ -1,8 +1,7 @@
-Awesome 😃 Adding a **screenshots/demo section** will definitely make the README more engaging. Here’s the updated version with a placeholder where you can drop your screenshots:  
 
 ---
 
-```markdown
+```
 # 📝 Text Extraction
 
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)  
@@ -75,11 +74,7 @@ Here’s how it works in action:
 ![Sample Input](Text-Extraction-main/Images/f4fe6fdeb3d5d0328b3e537977650135.webp)  
 
 **Extracted Text Output:**  
-![Extracted Output](Text-Extraction-main/Images/Screenshot 2025-10-08 110532.png)  
-
-*(Replace the above with your actual screenshots and adjust paths as needed.)*  
-
----
+![Extracted Output](Text-Extraction-main/Images/Screenshot 2025-10-08 110532.webp)  
 
 ## 📂 Project Structure
 ```
@@ -112,4 +107,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-👉 Do you want me to make the **screenshots section side-by-side** (input vs. output in one row) instead of stacked vertically, so it looks cleaner?
