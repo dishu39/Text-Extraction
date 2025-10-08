@@ -75,7 +75,7 @@ Here’s how it works in action:
 ![Sample Input](Text-Extraction-main/Images/f4fe6fdeb3d5d0328b3e537977650135.webp)  
 
 **Extracted Text Output:**  
-![Extracted Output](Screenshot 2025-10-08 110532.png)  
+![Extracted Output](Text-Extraction-main/Screenshot 2025-10-08 110532.png)  
 
 *(Replace the above with your actual screenshots and adjust paths as needed.)*  
 
