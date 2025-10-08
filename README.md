@@ -74,7 +74,7 @@ Here’s how it works in action:
 ![Sample Input](Text-Extraction-main/Images/f4fe6fdeb3d5d0328b3e537977650135.webp)  
 
 **Extracted Text Output:**  
-![Extracted Output](Text-Extraction-main/Images/Screenshot 2025-10-08 110532.webp)  
+![Extracted Output](https://github.com/dishu39/Text-Extraction/blob/eb80d59c4a4bd63a08090bca01367f4614e6550e/Text-Extraction-main/Images/Screenshot%202025-10-08%20110532.webp)  
 
 ## 📂 Project Structure
 ```
