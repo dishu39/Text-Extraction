@@ -72,7 +72,7 @@ python extract_text.py --image invoice.png --output result.txt
 Here’s how it works in action:  
 
 **Input Image:**  
-![Sample Input](screenshots/input.png)  
+![Sample Input](Text-Extraction-main/Images/f4fe6fdeb3d5d0328b3e537977650135.webp)  
 
 **Extracted Text Output:**  
 ![Extracted Output](screenshots/output.png)  
